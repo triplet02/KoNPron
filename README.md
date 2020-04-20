@@ -2,7 +2,7 @@
   
 <img src="https://img.shields.io/badge/License-MIT-yellow"> <img src="https://img.shields.io/badge/contributors-welcome-yellowgreen">  
   
-<img src="https://user-images.githubusercontent.com/42150335/79733753-8fa75b00-8330-11ea-81ca-c49d29412b45.png" width=500>  
+<img src="https://user-images.githubusercontent.com/53908830/79735575-7227c080-8333-11ea-9917-1f430bb4f3f2.png" width=500>  
   
 숫자표기를 한국어 발음전사로 변환해주는 파이썬 패키지입니다.  
   
